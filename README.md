@@ -1,1 +1,1 @@
-# crash-course-in-data
+# A Crash Course in Data: Grammar of Graphics
